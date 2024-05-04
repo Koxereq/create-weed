@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "create_weed:og_kush_leaf1"
+  },
+  "result": "create_weed:og_kush_leaf_dried"
+}
