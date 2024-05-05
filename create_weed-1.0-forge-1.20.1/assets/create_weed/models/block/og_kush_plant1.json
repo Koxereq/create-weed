@@ -1,8 +1,0 @@
-{
-  "parent": "block/crop",
-  "textures": {
-    "crop": "create_weed:block/weedretextured",
-    "particle": "create_weed:block/weedstrain"
-  },
-  "render_type": "cutout"
-}
