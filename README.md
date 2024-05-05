@@ -25,3 +25,5 @@ create weed addon repos for debug and updates
 
 Currently the mod is under early development, basic features are presented.
 
+Link: [(https://legacy.curseforge.com/minecraft/mc-mods/create-weed)](https://github.com/Koxereq/create-weed)
+
